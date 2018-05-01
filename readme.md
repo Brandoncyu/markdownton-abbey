@@ -46,6 +46,6 @@ function laugh (length) {
 
 - [x] Oppress some poor people
 
-- [x] Hunt an endangered animal
+- [ ] Hunt an endangered animal
 
 - [ ] Give millions to an exceptionally lazy heir
